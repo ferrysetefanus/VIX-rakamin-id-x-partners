@@ -1,1 +1,3 @@
 # VIX-rakamin-id-x-partners
+In this virtual internship, I am positioned as a Data Scientist Intern who is exposed to problems, case studies, and projects that become the daily routine of ID/X Partners. Data scientists will collaborate with business analysts, data engineers, software engineers, project managers, in the same project to provide the best IT Solution for clients. I was challenged to master and implement various skills and tools commonly used at ID/X Partners, such as Big Data Fundamentals, Statistics & Data Analytics, SQL Querying, R Programming, Python Programming, Machine Learning, etc. At the end, I was given the challenge to complete end-to-end Machine Learning modeling to create data science solutions for clients.
+
